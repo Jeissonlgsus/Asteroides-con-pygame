@@ -1,0 +1,2 @@
+El objetivo del juego es sencillo, hay que esquivar los asteroides hasta destruirlos todos, solo pueden pegarte 3 asteroides
+se mueve con las flechas y se dispara con la tecla espacio, al llegar a 50 puntos se termina el juego
